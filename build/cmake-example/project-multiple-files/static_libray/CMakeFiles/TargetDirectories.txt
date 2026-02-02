@@ -1,0 +1,4 @@
+/Users/macbookpro/Documents/2026/Devops/build/cmake-example/project-multiple-files/static_libray/CMakeFiles/mathutils.dir
+/Users/macbookpro/Documents/2026/Devops/build/cmake-example/project-multiple-files/static_libray/CMakeFiles/app.dir
+/Users/macbookpro/Documents/2026/Devops/build/cmake-example/project-multiple-files/static_libray/CMakeFiles/edit_cache.dir
+/Users/macbookpro/Documents/2026/Devops/build/cmake-example/project-multiple-files/static_libray/CMakeFiles/rebuild_cache.dir

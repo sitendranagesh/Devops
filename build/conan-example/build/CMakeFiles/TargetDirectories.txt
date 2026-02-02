@@ -1,0 +1,4 @@
+/Users/macbookpro/Documents/2026/Devops/build/conan-example/build/CMakeFiles/mathutils.dir
+/Users/macbookpro/Documents/2026/Devops/build/conan-example/build/CMakeFiles/app.dir
+/Users/macbookpro/Documents/2026/Devops/build/conan-example/build/CMakeFiles/edit_cache.dir
+/Users/macbookpro/Documents/2026/Devops/build/conan-example/build/CMakeFiles/rebuild_cache.dir

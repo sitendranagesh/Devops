@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/calc.dir/main.cpp.o CMakeFiles/calc.dir/math_utils.cpp.o -o calc
